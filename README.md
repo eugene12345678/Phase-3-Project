@@ -8,3 +8,11 @@ The Movie Rental System is a Python-based application designed to manage the ren
 - **Rental Management:** Rent movies and track due dates.
 - **Reservation Management:** Reserve movies and manage reservations.
 - **Search and Filter:** Search and filter movies by genres.
+
+## Installation
+
+### Prerequisites
+- Python 3.7 or higher
+- SQLite (comes pre-installed with Python)
+- SQLAlchemy
+
