@@ -86,7 +86,7 @@ This application primarily functions through a command-line interface, but you c
 - **Web Interface:** Create a web-based interface using Flask or Django for easier accessibility.
 - **Enhanced Search:** Add advanced search features, allowing filters by rating, year, etc.
 - **Notifications:** Notify customers via email about rental due dates or reservations.
-
+- **Reporting:** Generate reports on rental statistics, popular movies, etc.
 
 ### Example Commands
 - **Add a Customer**
