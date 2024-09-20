@@ -62,6 +62,15 @@ Once the application is running, you will be presented with a menu of options. Y
 6. **Search Movies:** Search for movies based on title or genre, with filters for availability.
 7. **Exit:** Close the application.
 
+### Database Schema
+The application uses a SQLite database with the following tables:
+
+- **customers:** Stores customer information.
+- **movies:** Stores movie information.
+- **genres:** Stores genre information.
+- **rentals:** Tracks rental transactions between customers and movies.
+- **reservations:** Manages movie reservations for customers.
+
 ### Example Commands
 - **Add a Customer**
 
