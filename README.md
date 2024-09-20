@@ -84,6 +84,7 @@ This application primarily functions through a command-line interface, but you c
 ### Future Enhancements
 - **User Authentication:** Implement user login and authentication for secure access.
 - **Web Interface:** Create a web-based interface using Flask or Django for easier accessibility.
+- **Enhanced Search:** Add advanced search features, allowing filters by rating, year, etc.
 
 ### Example Commands
 - **Add a Customer**
