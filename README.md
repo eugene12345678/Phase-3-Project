@@ -21,21 +21,24 @@ The Movie Rental System is a Python-based application designed to manage the ren
 
 ```bash
 git clone git@github.com:eugene12345678/Phase-3-Project.git
+```
+2. **Navigate to the Project Directory**
+```bash
 cd Phase-3-Project
 ```
-2. **Create a Virtual Environment**
+3. **Create a Virtual Environment**
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # For Unix/Linux/MacOS
 venv\Scripts\activate     # For Windows
 ```
-3. **Install Dependencies**
+4. **Install Dependencies**
 
 ```bash
 pip install -r requirements.txt
 ```
-4. **Set Up the Database**
+5. **Set Up the Database**
 
 ```bash
 python models.py
