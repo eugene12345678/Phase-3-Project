@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For any questions or issues, please contact eugene.mukabi@student.moringaschool.com.
 
-Author
+## Author
 [Eugene Mathenge](https://github.com/eugene12345678)
 
 
