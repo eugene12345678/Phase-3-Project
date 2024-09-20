@@ -71,6 +71,16 @@ The application uses a SQLite database with the following tables:
 - **rentals:** Tracks rental transactions between customers and movies.
 - **reservations:** Manages movie reservations for customers.
 
+### API Endpoints
+This application primarily functions through a command-line interface, but you can extend it to include API endpoints in the future. Here are some potential endpoints you could implement:
+
+- POST /customers: Add a new customer.
+- POST /movies: Add a new movie.
+- POST /genres: Add a new genre.
+- POST /rentals: Rent a movie.
+- POST /returns: Return a rented movie.
+- GET /movies: Search for movies.
+
 ### Example Commands
 - **Add a Customer**
 
