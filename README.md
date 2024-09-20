@@ -45,13 +45,13 @@ python models.py
 ```
 ## Usage
 ### Running the Application
-1. **Start the Application**
+#### Start the Application
 
 ```bash
-python cli.py
+python3 cli.py
 ```
 
-2. **Interacting with the CLI**
+#### Interacting with the CLI
 Once the application is running, you will be presented with a menu of options. You can select an option by entering the corresponding number. Below are the functionalities you can access:
 
 1. **Add Customer:** Enter the name of a new customer to add them to the system.
