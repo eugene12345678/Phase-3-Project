@@ -81,6 +81,10 @@ This application primarily functions through a command-line interface, but you c
 - POST /returns: Return a rented movie.
 - GET /movies: Search for movies.
 
+### Future Enhancements
+- **User Authentication:** Implement user login and authentication for secure access.
+- **Web Interface:** Create a web-based interface using Flask or Django for easier accessibility.
+
 ### Example Commands
 - **Add a Customer**
 
