@@ -50,17 +50,17 @@ python models.py
 ```bash
 python cli.py
 ```
+
 2. **Interacting with the CLI**
+Once the application is running, you will be presented with a menu of options. You can select an option by entering the corresponding number. Below are the functionalities you can access:
 
-The application provides a command-line interface (CLI) for interacting with the system. You can choose options such as:
-
-- Add a new customer
-- Add a new movie
-- Rent a movie
-- Return a movie
-- Reserve a movie
-- View rental and reservation history
-Follow the prompts in the terminal to perform these actions.
+1. **Add Customer:** Enter the name of a new customer to add them to the system.
+2. **Add Movie:** Enter the title and genres of a new movie to add it to the inventory.
+3. **Add Genre:** Specify a new genre to categorize movies.
+4. **Rent Movie:** Rent a movie by entering the customer ID and movie ID.
+5. **Return Movie:** Return a rented movie using the customer ID and movie ID.
+6. **Search Movies:** Search for movies based on title or genre, with filters for availability.
+7. **Exit:** Close the application.
 
 ### Example Commands
 - **Add a Customer**
